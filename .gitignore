@@ -1,0 +1,7 @@
+TestResults/
+*.sln
+UnitTestProject1/bin/
+UnitTestProject1/obj/
+UnitTestProject1/Properties/
+UnitTestProject1/*.csproj
+.vs/
